@@ -1,4 +1,4 @@
-#### Forks fixes #58, #59, #64 #65,
+#### Forks fixes #58, #59, #64 #65, #86
 
 #### For dirty install, do:
  -> cd /tmp && git clone https://github.com/unl1k3ly/aquatone && rm -rf ~/.rvm/gems/ruby-2.4.1/gems/aquatone-0.5.0/lib && cp -Rf /tmp/aquatone/lib ~/.rvm/gems/ruby-2.4.1/gems/aquatone-0.5.0/
